@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "AI-powered scam detection, phishing analysis, and cybersecurity assistant to protect against fraudulent messages, emails, and payment demands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
